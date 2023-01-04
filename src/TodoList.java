@@ -15,7 +15,6 @@ public class TodoList {
                 break;
             }
             System.out.println(i+1 + ". " + model[i]);
-
         }
     }
 
